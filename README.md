@@ -16,6 +16,24 @@ A template repository for good repository design.
 
 ## Structure
 
+```
+.
+├── .github
+│   ├── FUNDING.yml
+│   ├── ISSUE_TEMPLATE
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── workflows
+│       └── main.yml
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+└── README.md
+```
+
+## README
+
 1. Title
 2. Related Repositories
 3. Quick Deploy Button (Heroky/Netlify/...) if applicable

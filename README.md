@@ -14,7 +14,13 @@
 
 A template repository for good repository design.
 
-## Structure
+## Table of Contents
+
+1. [Directory Structure](#directory-structure)
+2. [Files](#files)
+    - (README.md)[#readme-md]
+
+## Directory Structure
 
 ```
 .
@@ -32,7 +38,9 @@ A template repository for good repository design.
 └── README.md
 ```
 
-## README
+## Files
+
+### README.md
 
 1. Title
 2. Related Repositories

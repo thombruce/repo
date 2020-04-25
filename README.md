@@ -43,6 +43,11 @@ A template repository for good repository design.
 
 ### README.md
 
+```
+.
+└── README.md
+```
+
 1. Title
 2. Related Repositories
 3. Quick Deploy Button (Heroky/Netlify/...) if applicable

@@ -43,7 +43,7 @@ A template repository for good repository design.
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>
-└── README.md
+└── <strong>README.md</strong>
 </pre>
 
 1. Title

@@ -53,4 +53,4 @@ A template repository for good repository design.
 
 ## Community Profile
 
-[![GitHub Community Profile](https://i.imgur.com/uQen0W4.png)](https://github.com/thombruce/repo/community)
+<p align="center"><a href="https://github.com/thombruce/repo/community"><img src="https://i.imgur.com/3X0HzD6.png" title="GitHub Community Profile" width="727" width="391" /></a></p>

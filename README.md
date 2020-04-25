@@ -19,6 +19,7 @@ A template repository for good repository design.
 1. [Directory Structure](#directory-structure)
 2. [Files and Folders](#files-and-folders)
     - [README.md](#readmemd)
+3. [Community Profile](#community-profile)
 
 ## Directory Structure
 
@@ -49,3 +50,7 @@ A template repository for good repository design.
 5. Community Badges (License/Code of Conduct/Contributing Guide/Discord)
 6. Introduction
 7. Table of Contents
+
+## Community Profile
+
+[![GitHub Community Profile](https://i.imgur.com/tOLfWjN.png)](https://github.com/thombruce/repo/community)

@@ -21,7 +21,7 @@
     - [LICENSE](#license)
     - [CODE_OF_CONDUCT.md](#code_of_conductmd)
     - [CONTRIBUTING.md](#contributingmd)
-    - [.github]([#github)
+    - [.github](#github)
         - ISSUE_TEMPLATE
         - PULL_REQUEST_TEMPLATE.md
         - FUNDING.yml

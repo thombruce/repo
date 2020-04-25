@@ -23,21 +23,21 @@ A template repository for good repository design.
 
 ## Files and Folders
 
-```
+<pre>
 .
 ├── .github
-│   ├── FUNDING.yml
-│   ├── ISSUE_TEMPLATE
-│   │   ├── bug_report.md
-│   │   └── feature_request.md
-│   ├── PULL_REQUEST_TEMPLATE.md
-│   └── workflows
-│       └── main.yml
+│   ├── FUNDING.yml
+│   ├── ISSUE_TEMPLATE
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── workflows
+│       └── main.yml
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── LICENSE
-└── README.md
-```
+└── <a href="#readmemd" title="README.md">README.md</a>
+</pre>
 
 ### README.md
 

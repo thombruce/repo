@@ -1,18 +1,18 @@
-# Repo
+<h1 id="repo" align="center">Repo</h1>
 
-**Repo** | [Helvellyn](https://github.com/thombruce/helvellyn) | [Credible](https://github.com/thombruce/credible)
+<p align="center"><strong>Repo</strong> | <a href="https://github.com/thombruce/helvellyn">Helvellyn</a> | <a href="https://github.com/thombruce/credible">Credible</a></p>
 
-[![Become a Patron](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/thombruce)
+<p align="center"><a href="https://www.patreon.com/thombruce"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron"></a></p>
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/thombruce/repo/CI?logo=github)](https://github.com/thombruce/repo/actions)
-[![GitHub issues](https://img.shields.io/github/issues-raw/thombruce/repo?logo=github)](https://github.com/thombruce/repo/issues)
+<p align="center"><a href="https://github.com/thombruce/repo/actions"><img src="https://img.shields.io/github/workflow/status/thombruce/repo/CI?logo=github" alt="GitHub Workflow Status"></a>
+<a href="https://github.com/thombruce/repo/issues"><img src="https://img.shields.io/github/issues-raw/thombruce/repo?logo=github" alt="GitHub issues"></a></p>
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-[![Contributing](https://img.shields.io/badge/contributions-welcome-blue.svg)](CONTRIBUTING.md)
-[![Discord](https://img.shields.io/discord/697123984231366716?color=7289da&label=chat&logo=discord)](https://discord.gg/TeBygKr)
+<p align="center"><a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+<a href="CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg" alt="Contributor Covenant"></a>
+<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-blue.svg" alt="Contributing"></a>
+<a href="https://discord.gg/TeBygKr"><img src="https://img.shields.io/discord/697123984231366716?color=7289da&amp;label=chat&amp;logo=discord" alt="Discord"></a></p>
 
-A template repository for good repository design.
+<p align="center">A template repository for good repository design.</p>
 
 ## Table of Contents
 

@@ -25,7 +25,7 @@
 
 <pre>
 .
-├── .github
+├── <a href="#github" title=".github">.github</a>
 │   ├── FUNDING.yml
 │   ├── ISSUE_TEMPLATE
 │   │   ├── bug_report.md
@@ -33,9 +33,9 @@
 │   ├── PULL_REQUEST_TEMPLATE.md
 │   └── workflows
 │       └── main.yml
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── LICENSE
+├── <a href="#code_of_conductmd" title="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a>
+├── <a href="#contributingmd" title="CONTRIBUTING.md">CONTRIBUTING.md</a>
+├── <a href="#license" title="LICENSE">LICENSE</a>
 └── <a href="#readmemd" title="README.md">README.md</a>
 </pre>
 
@@ -53,6 +53,43 @@
 5. Community Badges (License/Code of Conduct/Contributing Guide/Discord)
 6. Introduction
 7. Table of Contents
+
+### LICENSE
+
+<pre>
+<a href="#files-and-folders" title="Files and Folders">.</a>
+└── <strong>LICENSE</strong>
+</pre>
+
+The most essential file to let others know that a project is open source and how they are allowed to use it. This repo, for instance, uses the MIT license; you can use the contents privately and commercially and modify them for your own needs.
+
+### CODE_OF_CONDUCT.md
+
+<pre>
+<a href="#files-and-folders" title="Files and Folders">.</a>
+└── <strong>CODE_OF_CONDUCT.md</strong>
+</pre>
+
+### CONTRIBUTING.md
+
+<pre>
+<a href="#files-and-folders" title="Files and Folders">.</a>
+└── <strong>CONTRIBUTING.md</strong>
+</pre>
+
+### .github
+
+<pre>
+<a href="#files-and-folders" title="Files and Folders">.</a>
+├── <strong>.github</strong>
+│   ├── FUNDING.yml
+│   ├── ISSUE_TEMPLATE
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── workflows
+│       └── main.yml
+</pre>
 
 ## Community Profile
 

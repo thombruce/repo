@@ -16,12 +16,12 @@ A template repository for good repository design.
 
 ## Table of Contents
 
-1. [Directory Structure](#directory-structure)
-2. [Files and Folders](#files-and-folders)
+1. [Files and Folders](#files-and-folders)
     - [README.md](#readmemd)
-3. [Community Profile](#community-profile)
+2. [Community Profile](#community-profile)
 
-## Directory Structure
+
+## Files and Folders
 
 ```
 .
@@ -38,8 +38,6 @@ A template repository for good repository design.
 ├── LICENSE
 └── README.md
 ```
-
-## Files and Folders
 
 ### README.md
 

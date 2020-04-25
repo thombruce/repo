@@ -41,10 +41,10 @@ A template repository for good repository design.
 
 ### README.md
 
-```
-.
+<pre>
+<a href="#files-and-folders" title="Files and Folders">.</a>
 └── README.md
-```
+</pre>
 
 1. Title
 2. Related Repositories

@@ -18,6 +18,14 @@
 
 1. [Files and Folders](#files-and-folders)
     - [README.md](#readmemd)
+    - [LICENSE](#license)
+    - [CODE_OF_CONDUCT.md](#code_of_conductmd)
+    - [CONTRIBUTING.md](#contributingmd)
+    - [.github]([#github)
+        - ISSUE_TEMPLATE
+        - PULL_REQUEST_TEMPLATE.md
+        - FUNDING.yml
+        - workflows
 2. [Community Profile](#community-profile)
 
 

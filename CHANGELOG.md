@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Create a separate ABOUT.md for .github folder
 - Add a link to the .github ABOUT readme from root README
+- Add links to actual files and folders alongside headers
 
 ### Changed
 - Reorder README content to match file tree order

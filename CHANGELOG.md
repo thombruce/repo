@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Removed
+- Remove sublist of files and folders from table of contents menu
+
 ## [0.1.2] - 2020-04-26
 
 ### Added

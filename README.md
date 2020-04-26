@@ -22,7 +22,6 @@
 1. [Files and Folders](#files-and-folders)
 2. [Community Profile](#community-profile)
 
-
 ## Files and Folders
 
 <pre>

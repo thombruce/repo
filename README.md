@@ -42,20 +42,19 @@
 └── <a href="#readmemd" title="README.md">README.md</a>
 </pre>
 
-### README.md
+### .github
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>
-└── <strong>README.md</strong>
+├── <strong>.github</strong>
+│   ├── FUNDING.yml
+│   ├── ISSUE_TEMPLATE
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── workflows
+│       └── main.yml
 </pre>
-
-1. Title
-2. Related Repositories
-3. Quick Deploy Button (Heroky/Netlify/...) if applicable
-4. Dev Badges (Version/Build/Coverage/Issues)
-5. Community Badges (License/Code of Conduct/Contributing Guide/Discord)
-6. Introduction
-7. Table of Contents
 
 ### CHANGELOG.md
 
@@ -65,15 +64,6 @@
 </pre>
 
 Based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) by [Olivier Lacan](https://github.com/olivierlacan).
-
-### LICENSE
-
-<pre>
-<a href="#files-and-folders" title="Files and Folders">.</a>
-└── <strong>LICENSE</strong>
-</pre>
-
-The most essential file to let others know that a project is open source and how they are allowed to use it. This repo, for instance, uses the MIT license; you can use the contents privately and commercially and modify them for your own needs.
 
 ### CODE_OF_CONDUCT.md
 
@@ -89,19 +79,29 @@ The most essential file to let others know that a project is open source and how
 └── <strong>CONTRIBUTING.md</strong>
 </pre>
 
-### .github
+### LICENSE
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>
-├── <strong>.github</strong>
-│   ├── FUNDING.yml
-│   ├── ISSUE_TEMPLATE
-│   │   ├── bug_report.md
-│   │   └── feature_request.md
-│   ├── PULL_REQUEST_TEMPLATE.md
-│   └── workflows
-│       └── main.yml
+└── <strong>LICENSE</strong>
 </pre>
+
+The most essential file to let others know that a project is open source and how they are allowed to use it. This repo, for instance, uses the MIT license; you can use the contents privately and commercially and modify them for your own needs.
+
+### README.md
+
+<pre>
+<a href="#files-and-folders" title="Files and Folders">.</a>
+└── <strong>README.md</strong>
+</pre>
+
+1. Title
+2. Related Repositories
+3. Quick Deploy Button (Heroky/Netlify/...) if applicable
+4. Dev Badges (Version/Build/Coverage/Issues)
+5. Community Badges (License/Code of Conduct/Contributing Guide/Discord)
+6. Introduction
+7. Table of Contents
 
 ## Community Profile
 

@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- Reorder README content to match file tree order
+
 ### Removed
 - Remove sublist of files and folders from table of contents menu
 

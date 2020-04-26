@@ -28,13 +28,6 @@
 <pre>
 .
 ├── <a href="#github" title=".github">.github</a>
-│   ├── FUNDING.yml
-│   ├── ISSUE_TEMPLATE
-│   │   ├── bug_report.md
-│   │   └── feature_request.md
-│   ├── PULL_REQUEST_TEMPLATE.md
-│   └── workflows
-│       └── main.yml
 ├── <a href="#changelogmd" title="CHANGELOG.md">CHANGELOG.md</a>
 ├── <a href="#code_of_conductmd" title="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a>
 ├── <a href="#contributingmd" title="CONTRIBUTING.md">CONTRIBUTING.md</a>
@@ -46,14 +39,7 @@
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>
-├── <strong>.github</strong>
-│   ├── FUNDING.yml
-│   ├── ISSUE_TEMPLATE
-│   │   ├── bug_report.md
-│   │   └── feature_request.md
-│   ├── PULL_REQUEST_TEMPLATE.md
-│   └── workflows
-│       └── main.yml
+└── <strong>.github</strong>
 </pre>
 
 This hidden folder contains GitHub specific files. [Read more](.github/ABOUT.md).

@@ -44,6 +44,7 @@
 │   ├── PULL_REQUEST_TEMPLATE.md
 │   └── workflows
 │       └── main.yml
+├── <a href="#changelogmd" title="CHANGELOG.md">CHANGELOG.md</a>
 ├── <a href="#code_of_conductmd" title="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a>
 ├── <a href="#contributingmd" title="CONTRIBUTING.md">CONTRIBUTING.md</a>
 ├── <a href="#license" title="LICENSE">LICENSE</a>
@@ -64,6 +65,15 @@
 5. Community Badges (License/Code of Conduct/Contributing Guide/Discord)
 6. Introduction
 7. Table of Contents
+
+### CHANGELOG.md
+
+<pre>
+<a href="#files-and-folders" title="Files and Folders">.</a>
+└── <strong>CHANGELOG.md</strong>
+</pre>
+
+Based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) by [Olivier Lacan](https://github.com/olivierlacan).
 
 ### LICENSE
 

@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) badge in README
 - Version badge based on GitHub releases in README
+- Add CHANGELOG.md section to README
 
 ### Changed
 - Rearrange badges in README

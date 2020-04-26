@@ -56,7 +56,7 @@
 │       └── main.yml
 </pre>
 
-This hidden folder contains GitHub specific files. [Read more](.github).
+This hidden folder contains GitHub specific files. [Read more](.github/ABOUT.md).
 
 ### CHANGELOG.md
 

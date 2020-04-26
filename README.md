@@ -42,7 +42,7 @@
 └── <strong>.github</strong>
 </pre>
 
-This hidden folder contains GitHub specific files. [Read more](.github/ABOUT.md).
+This hidden folder contains GitHub specific files. [Read more](.github/ABOUT.md#github).
 
 ### CHANGELOG.md
 

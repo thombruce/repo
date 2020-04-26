@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Create a separate README for .github folder
+
 ### Changed
 - Reorder README content to match file tree order
 

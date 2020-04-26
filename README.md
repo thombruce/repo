@@ -35,7 +35,9 @@
 └── <a href="#readmemd" title="README.md">README.md</a>
 </pre>
 
-### .github ([read more](.github/.GITHUB.md#github))
+### .github
+
+([view folder](.github))
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>
@@ -44,7 +46,9 @@
 
 This hidden folder contains GitHub specific files. [Read more](.github/.GITHUB.md#github).
 
-### CHANGELOG.md ([view file](CHANGELOG.md))
+### CHANGELOG.md
+
+([view file](CHANGELOG.md))
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>
@@ -53,21 +57,27 @@ This hidden folder contains GitHub specific files. [Read more](.github/.GITHUB.m
 
 Based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) by [Olivier Lacan](https://github.com/olivierlacan).
 
-### CODE_OF_CONDUCT.md ([view file](CODE_OF_CONDUCT.md))
+### CODE_OF_CONDUCT.md
+
+([view file](CODE_OF_CONDUCT.md))
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>
 └── <strong>CODE_OF_CONDUCT.md</strong>
 </pre>
 
-### CONTRIBUTING.md ([view file](CONTRIBUTING.md))
+### CONTRIBUTING.md
+
+([view file](CONTRIBUTING.md))
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>
 └── <strong>CONTRIBUTING.md</strong>
 </pre>
 
-### LICENSE ([view file](LICENSE))
+### LICENSE
+
+([view file](LICENSE))
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>
@@ -76,7 +86,9 @@ Based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) by [Olivier La
 
 The most essential file to let others know that a project is open source and how they are allowed to use it. This repo, for instance, uses the MIT license; you can use the contents privately and commercially and modify them for your own needs.
 
-### README.md ([view file](README.md))
+### README.md
+
+([view file](README.md))
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>

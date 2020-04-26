@@ -1,8 +1,8 @@
-### .github
-
 > **Did You Know?**
 >
 > If you add a file called `README.md` to the `.github` directory, GitHub will use this as the default README displayed on your repo's main page. I made this mistake when creating this file, which is why it is now called ABOUT.md.
+
+### .github
 
 <pre>
 .github

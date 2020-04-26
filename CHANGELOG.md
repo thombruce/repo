@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Create a separate README for .github folder
+- Add a link to the .github readme from root README
 
 ### Changed
 - Reorder README content to match file tree order

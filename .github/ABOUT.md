@@ -2,16 +2,47 @@
 
 <pre>
 .github
-├── FUNDING.yml
-├── ISSUE_TEMPLATE
+├── <a href="#fundingyml" title="FUNDING.yml">FUNDING.yml</a>
+├── <a href="#issue_template" title="ISSUE_TEMPLATE">ISSUE_TEMPLATE</a>
 │   ├── bug_report.md
 │   └── feature_request.md
-├── PULL_REQUEST_TEMPLATE.md
-└── workflows
+├── <a href="#pull_request_templatemd" title="PULL_REQUEST_TEMPLATE.md">PULL_REQUEST_TEMPLATE.md</a>
+└── <a href="#workflows" title="workflows">workflows</a>
     └── main.yml
 </pre>
 
 This hidden folder contains GitHub specific files for issue and pull request templates, workflows to be run with GitHub Actions and the standard FUNDING.yml file that lets visitors know how they can contribute and will show a 'Sponsor' button on your GitHub repository.
+
+#### FUNDING.yml
+
+<pre>
+<a href="#github" title=".github">.github</a>
+└── <strong>FUNDING.yml</strong>
+</pre>
+
+#### ISSUE_TEMPLATE
+
+<pre>
+<a href="#github" title=".github">.github</a>
+└── <strong>ISSUE_TEMPLATE</strong>
+    ├── bug_report.md
+    └── feature_request.md
+</pre>
+
+#### PULL_REQUEST_TEMPLATE.md
+
+<pre>
+<a href="#github" title=".github">.github</a>
+└── <strong>PULL_REQUEST_TEMPLATE.md</strong>
+</pre>
+
+#### workflows
+
+<pre>
+<a href="#github" title=".github">.github</a>
+└── <strong>workflows</strong>
+    └── main.yml
+</pre>
 
 > **Did You Know?**
 >

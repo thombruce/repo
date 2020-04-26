@@ -35,14 +35,14 @@
 └── <a href="#readmemd" title="README.md">README.md</a>
 </pre>
 
-### .github ([read more](.github/ABOUT.md#github))
+### .github ([read more](.github/.GITHUB.md#github))
 
 <pre>
 <a href="#files-and-folders" title="Files and Folders">.</a>
 └── <strong>.github</strong>
 </pre>
 
-This hidden folder contains GitHub specific files. [Read more](.github/ABOUT.md#github).
+This hidden folder contains GitHub specific files. [Read more](.github/.GITHUB.md#github).
 
 ### CHANGELOG.md ([view file](CHANGELOG.md))
 

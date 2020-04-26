@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.3] - 2020-04-26
+
 ### Added
 - Create a separate .GITHUB.md for .github folder
 - Add a link to the .github ABOUT readme from root README

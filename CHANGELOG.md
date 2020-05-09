@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Add lead 'Bug: ' or 'Feature: ' prefix to Issue Template titles
+
+### Removed
+- Remove automatic user assignment from Issue Templates
+
 ## [0.1.3] - 2020-04-26
 
 ### Added

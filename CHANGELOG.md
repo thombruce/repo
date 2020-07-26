@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Add a package.json to store project metadata
+
 ## [0.1.4] - 2020-05-09
 
 ### Added

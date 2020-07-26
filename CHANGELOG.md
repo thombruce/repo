@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Add a repo.yml to store additional project metadata
+
+### Changed
+- Add package.json and repo.yml sections to README
+
 ## [0.2.0] - 2020-07-26
 
 ### Added

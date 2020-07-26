@@ -31,7 +31,9 @@
 ├── <a href="#code_of_conductmd" title="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a>
 ├── <a href="#contributingmd" title="CONTRIBUTING.md">CONTRIBUTING.md</a>
 ├── <a href="#license" title="LICENSE">LICENSE</a>
-└── <a href="#readmemd" title="README.md">README.md</a>
+├── <a href="#packagejson" title="package.json">package.json</a>
+├── <a href="#readmemd" title="README.md">README.md</a>
+└── <a href="#repoyml" title="repo.yml">repo.yml</a>
 </pre>
 
 ### .github
@@ -75,6 +77,15 @@ Based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) by [Olivier La
 
 The most essential file to let others know that a project is open source and how they are allowed to use it. This repo, for instance, uses the MIT license; you can use the contents privately and commercially and modify them for your own needs.
 
+### package.json
+
+<pre>
+<a href="#files-and-folders" title="Files and Folders">.</a>
+└── <a href="package.json" title="view file"><strong>package.json</strong></a>
+</pre>
+
+The package.json file is used by npm packages to list dependencies. It isn't required, but can be handy to have even if you're not creating an npm package. At minimum, it lists the name and version of the package.
+
 ### README.md
 
 <pre>
@@ -89,6 +100,15 @@ The most essential file to let others know that a project is open source and how
 5. Community Badges (License/Code of Conduct/Contributing Guide/Discord)
 6. Introduction
 7. Table of Contents
+
+### repo.yml
+
+<pre>
+<a href="#files-and-folders" title="Files and Folders">.</a>
+└── <a href="repo.yml" title="view file"><strong>repo.yml</strong></a>
+</pre>
+
+An optional file devised to contain repository metadata that doesn't belong in package.json. You could forego this file entirely and store metadata there instead. I use repo.yml to store the sanitised title of my project and a list of the technologies used. This data can be easily parsed by my website when listing projects in my portfolio. I consider it handy as a supplementary file to store project information that isn't necessarily useful to the project itself.
 
 ## Community Profile
 

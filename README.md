@@ -32,8 +32,7 @@
 ├── <a href="#contributingmd" title="CONTRIBUTING.md">CONTRIBUTING.md</a>
 ├── <a href="#license" title="LICENSE">LICENSE</a>
 ├── <a href="#packagejson" title="package.json">package.json</a>
-├── <a href="#readmemd" title="README.md">README.md</a>
-└── <a href="#repoyml" title="repo.yml">repo.yml</a>
+└── <a href="#readmemd" title="README.md">README.md</a>
 </pre>
 
 ### .github
@@ -84,7 +83,7 @@ The most essential file to let others know that a project is open source and how
 └── <a href="package.json" title="view file"><strong>package.json</strong></a>
 </pre>
 
-The package.json file is used by npm packages to list dependencies. It isn't required, but can be handy to have even if you're not creating an npm package. At minimum, it lists the name and version of the package.
+The package.json file is used by npm packages to list dependencies. It isn't required, but can be handy to have even if you're not creating an npm package. At minimum, it lists the name and version of the package. It can also contain many other fields, used by different technologies.
 
 ### README.md
 
@@ -100,15 +99,6 @@ The package.json file is used by npm packages to list dependencies. It isn't req
 5. Community Badges (License/Code of Conduct/Contributing Guide/Discord)
 6. Introduction
 7. Table of Contents
-
-### repo.yml
-
-<pre>
-<a href="#files-and-folders" title="Files and Folders">.</a>
-└── <a href="repo.yml" title="view file"><strong>repo.yml</strong></a>
-</pre>
-
-An optional file devised to contain repository metadata that doesn't belong in package.json. You could forego this file entirely and store metadata there instead. I use repo.yml to store the sanitised title of my project and a list of the technologies used. This data can be easily parsed by my website when listing projects in my portfolio. I consider it handy as a supplementary file to store project information that isn't necessarily useful to the project itself.
 
 ## Community Profile
 
